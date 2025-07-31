@@ -1,7 +1,5 @@
  # database_vs_data_warehouse_vs_datalake
 
-
-
  ## 🗃️ 1. Database
 Definition: A structured collection of data stored electronically and accessed using a database management system (DBMS).
 
